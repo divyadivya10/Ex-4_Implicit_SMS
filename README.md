@@ -1,6 +1,10 @@
 
 # Ex.No:4 Design an android application Send SMS using Intent.
+Developed by: DIVYA R
 
+Registeration Number : 212222040040
+
+Date:9/9/24
 
 ## AIM:
 
@@ -30,8 +34,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application Send SMS using Intent.
-Developed by: DIVYA R
-Registeration Number : 212222040040
+
 */
 ```
 ## MainActivity.java:
